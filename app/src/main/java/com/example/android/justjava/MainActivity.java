@@ -10,6 +10,7 @@ package com.example.android.justjava;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -84,10 +85,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * This method displays the given text on the screen.
+     * This defines a method that manipulates a TextView that has been made in the corresponding .xml file.
+     * first you must capture the TextView as an object. then you call a factory method on the objext.
+     * End Result: TextView in .xml is ajusted to have the submitted text.
      */
     private void displayMessage(String message) {
         TextView orderSummaryTextView = (TextView) findViewById(R.id.order_summary_text_view);
         orderSummaryTextView.setText(message);
+        Log.i("MainActivity.java", "you have just called the display Message");
     }
 }
