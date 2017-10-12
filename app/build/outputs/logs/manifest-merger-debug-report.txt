@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/gansa10/.android/build-cache/e14b0e36e330d02027bff6d1423dacd0efaaeab3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/gansa10/.android/build-cache/25ac41ea729f997fa62f50feaa63bfc316ec5c0f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/gansa10/.android/build-cache/a39e681848413f1ebacdf93dd31536a12d469dba/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/gansa10/.android/build-cache/4457048008ec314cead12301a58c2aa4e316d051/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/gansa10/.android/build-cache/1840fcf1ed920021aa3f566b734c205d2274f08b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/gansa10/.android/build-cache/4ff15de0510650ffb1995d19e821538debd720e7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/gansa10/.android/build-cache/8c44d6bf22bfb9e9cd6c13320eb467e3d3ef8e78/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/gansa10/.android/build-cache/4bc3f0d02c3bbe366ed901837923ff06004b08cf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gansa10/.android/build-cache/cc56a339d530affd55e2bc1110088e58d33ebbf7/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.justjava.MainActivity
+ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/gansa10/.android/build-cache/e14b0e36e330d02027bff6d1423dacd0efaaeab3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/gansa10/.android/build-cache/25ac41ea729f997fa62f50feaa63bfc316ec5c0f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/gansa10/.android/build-cache/a39e681848413f1ebacdf93dd31536a12d469dba/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/gansa10/.android/build-cache/4457048008ec314cead12301a58c2aa4e316d051/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/gansa10/.android/build-cache/1840fcf1ed920021aa3f566b734c205d2274f08b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/gansa10/.android/build-cache/4ff15de0510650ffb1995d19e821538debd720e7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/gansa10/.android/build-cache/8c44d6bf22bfb9e9cd6c13320eb467e3d3ef8e78/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/gansa10/.android/build-cache/4bc3f0d02c3bbe366ed901837923ff06004b08cf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gansa10/.android/build-cache/cc56a339d530affd55e2bc1110088e58d33ebbf7/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/gansa10/.android/build-cache/e14b0e36e330d02027bff6d1423dacd0efaaeab3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/gansa10/.android/build-cache/25ac41ea729f997fa62f50feaa63bfc316ec5c0f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/gansa10/.android/build-cache/a39e681848413f1ebacdf93dd31536a12d469dba/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/gansa10/.android/build-cache/4457048008ec314cead12301a58c2aa4e316d051/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/gansa10/.android/build-cache/1840fcf1ed920021aa3f566b734c205d2274f08b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/gansa10/.android/build-cache/4ff15de0510650ffb1995d19e821538debd720e7/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/gansa10/.android/build-cache/8c44d6bf22bfb9e9cd6c13320eb467e3d3ef8e78/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/gansa10/.android/build-cache/4bc3f0d02c3bbe366ed901837923ff06004b08cf/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/layout-v21/notification_action.xml"
+    }
+]

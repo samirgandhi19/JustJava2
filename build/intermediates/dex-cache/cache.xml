@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef5502b8171fe12b5309114d6fb1a7bf6cebae6">
+        <dex dex="/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_45ccb1359fc68af7e1693b48f1c127599ee47500/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2f6f196007142c8e77549f357b219357788fadc9/classes.dex" />
+    </item>
+
+</items>

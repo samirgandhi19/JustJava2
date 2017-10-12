@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/gansa10/.android/build-cache/5b4b6bf1d8c52fa3ab02233d716ee5cfca8c791f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]
