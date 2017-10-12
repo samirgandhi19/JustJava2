@@ -1,4 +1,4 @@
-#Wed Oct 11 19:13:09 CDT 2017
+#Wed Oct 11 21:44:31 CDT 2017
 base.0=/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2f6f196007142c8e77549f357b219357788fadc9
 renamed.1=classes.dex
 renamed.0=classes2.dex

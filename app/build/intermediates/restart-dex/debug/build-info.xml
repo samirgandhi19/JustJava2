@@ -6,26 +6,32 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1507770673506"
+    timestamp="1507776269893"
     token="-3098220493704488936"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="327" />
+        duration="236" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="31" />
+        duration="45" />
     <task
         name="verifier"
-        duration="14" />
+        duration="4" />
 
+    <artifact
+        location="/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
     <artifact
         location="/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
+    <artifact
+        location="/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -70,11 +76,17 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1507770673506"
+        timestamp="1507776269893"
         verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
+        <artifact
+            location="/Users/gansa10/Documents/apim/mobile/learning/JustJava2/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
